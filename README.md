@@ -1,4 +1,6 @@
 fat-gitignore
 =============
 
-fat projects gitignore file, wordpress, bower, sass, grunt
+ignoring wordpress, bower, sass, grunt stuff
+
+To start using simple find and replace '_s' to 'your-wordpress-theme-name'
